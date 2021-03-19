@@ -1,0 +1,9 @@
+SpeechRecognition
+Sastrawi
+gensim
+sklearn
+matplotlib
+numpy
+youtube_dl
+nltk
+pydub
