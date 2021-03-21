@@ -2,3 +2,5 @@ _OLD_SAMPLE_FILE
 Paper
 SemanticNetwork
 Word2Vec
+__pycache__/
+model
