@@ -4,7 +4,7 @@ from os import path
 import speech_recognition as sr
 from pydub import AudioSegment
 from pydub.utils import make_chunks
-from vtt2text import convert_vtt
+from DataFetching.vtt2text import convert_vtt
 
 # TODO: Set saving directory to a Sample Directory
 
