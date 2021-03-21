@@ -4,3 +4,4 @@ SemanticNetwork
 Word2Vec
 __pycache__/
 model
+*.html
