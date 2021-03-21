@@ -8,7 +8,7 @@ from gensim.models import KeyedVectors
 from sklearn.manifold import TSNE
 
 model = KeyedVectors.load(
-    "/model/idwiki_word2vec_200_new_lower.model")
+    "./model/idwiki_word2vec_200_new_lower.model")
 
 
 def generate_edges(word_tokens, similarity_threshold=0.5, save_edges_to_file=False):
